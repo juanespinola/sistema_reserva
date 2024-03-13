@@ -1,0 +1,184 @@
+{
+    "dashboard": {
+        "route": "admin.dashboard",
+        "routePattern": "admin.dashboard",
+        "permissionName": "dashboard",
+        "title": "Dashboard",
+        "faIcon": "fas fa-tv",
+        "isTitle": false,
+        "isParent": false,
+        "ignorePerm": true,
+        "children": []
+    },
+    "permissions": {
+        "route": "admin.permissions.index",
+        "title": "Permissions",
+        "routePattern": "admin.permissions.*",
+        "faIcon": "far fa-clone",
+        "isTitle": false,
+        "isParent": false,
+        "children": []
+    },
+    "roles": {
+        "route": "admin.roles.index",
+        "title": "Roles",
+        "routePattern": "admin.roles.*",
+        "faIcon": "far fa-clone",
+        "isTitle": false,
+        "isParent": false,
+        "children": []
+    },
+    "users": {
+        "route": "admin.users.index",
+        "title": "Users",
+        "routePattern": "admin.users.*",
+        "faIcon": "far fa-clone",
+        "isTitle": false,
+        "isParent": false,
+        "children": []
+    },
+    "shelves": {
+        "route": "admin.shelves.index",
+        "title": "Shelves",
+        "routePattern": "admin.shelves.*",
+        "faIcon": "far fa-clone",
+        "isTitle": false,
+        "isParent": false,
+        "children": []
+    },
+    "stocks": {
+        "route": "admin.stocks.index",
+        "title": "Stocks",
+        "routePattern": "admin.stocks.*",
+        "faIcon": "far fa-clone",
+        "isTitle": false,
+        "isParent": false,
+        "children": []
+    },
+    "plans": {
+        "route": "admin.plans.index",
+        "title": "Plans",
+        "routePattern": "admin.plans.*",
+        "faIcon": "far fa-clone",
+        "isTitle": false,
+        "isParent": false,
+        "children": []
+    },
+    "suppliers": {
+        "route": "admin.suppliers.index",
+        "title": "Suppliers",
+        "routePattern": "admin.suppliers.*",
+        "faIcon": "far fa-clone",
+        "isTitle": false,
+        "isParent": false,
+        "children": []
+    },
+    "bookings": {
+        "route": "admin.bookings.index",
+        "title": "Bookings",
+        "routePattern": "admin.bookings.*",
+        "faIcon": "far fa-clone",
+        "isTitle": false,
+        "isParent": false,
+        "children": []
+    },
+    "comments": {
+        "route": "admin.comments.index",
+        "title": "Comments",
+        "routePattern": "admin.comments.*",
+        "faIcon": "far fa-clone",
+        "isTitle": false,
+        "isParent": false,
+        "children": []
+    },
+    "customers": {
+        "route": "admin.customers.index",
+        "title": "Customers",
+        "routePattern": "admin.customers.*",
+        "faIcon": "far fa-clone",
+        "isTitle": false,
+        "isParent": false,
+        "children": []
+    },
+    "inventories": {
+        "route": "admin.inventories.index",
+        "title": "Inventories",
+        "routePattern": "admin.inventories.*",
+        "faIcon": "far fa-clone",
+        "isTitle": false,
+        "isParent": false,
+        "children": []
+    },
+    "products": {
+        "route": "admin.products.index",
+        "title": "Products",
+        "routePattern": "admin.products.*",
+        "faIcon": "far fa-clone",
+        "isTitle": false,
+        "isParent": false,
+        "children": []
+    },
+    "purchases-details": {
+        "route": "admin.purchases-details.index",
+        "title": "Purchases Detail",
+        "routePattern": "admin.purchases-details.*",
+        "faIcon": "far fa-clone",
+        "isTitle": false,
+        "isParent": false,
+        "children": []
+    },
+    "purchases": {
+        "route": "admin.purchases.index",
+        "title": "Purchases",
+        "routePattern": "admin.purchases.*",
+        "faIcon": "far fa-clone",
+        "isTitle": false,
+        "isParent": false,
+        "children": []
+    },
+    "ratings": {
+        "route": "admin.ratings.index",
+        "title": "Ratings",
+        "routePattern": "admin.ratings.*",
+        "faIcon": "far fa-clone",
+        "isTitle": false,
+        "isParent": false,
+        "children": []
+    },
+    "reservation-places": {
+        "route": "admin.reservation-places.index",
+        "title": "Reservation Places",
+        "routePattern": "admin.reservation-places.*",
+        "faIcon": "far fa-clone",
+        "isTitle": false,
+        "isParent": false,
+        "children": []
+    },
+    "sales-details": {
+        "route": "admin.sales-details.index",
+        "title": "Sales Detail",
+        "routePattern": "admin.sales-details.*",
+        "faIcon": "far fa-clone",
+        "isTitle": false,
+        "isParent": false,
+        "children": []
+    },
+    "sales": {
+        "route": "admin.sales.index",
+        "title": "Sales",
+        "routePattern": "admin.sales.*",
+        "faIcon": "far fa-clone",
+        "isTitle": false,
+        "isParent": false,
+        "children": []
+    },
+    "transactions": {
+        "route": "admin.transactions.index",
+        "title": "Transactions",
+        "routePattern": "admin.transactions.*",
+        "faIcon": "far fa-clone",
+        "isTitle": false,
+        "isParent": false,
+        "children": []
+    }
+}
